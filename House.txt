@@ -7,12 +7,16 @@
 
 
 
-
-
-			
-			  X
-			 X
-			X
+		                 XXXXXXXXXXXXXXX
+		 	        X		X
+			       X		 X
+			      X			  X
+       			     X			   X
+			    X 			    X
+		 	   X			     X
+			  X 			      X
+			 X			       X
+			X				X
 	|||||||||	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	||	|	X				X
 	||	O	X				X
@@ -21,4 +25,4 @@
 	||		X				X
 	||		X				X
 	||		X				X
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

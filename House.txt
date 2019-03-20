@@ -2,11 +2,11 @@
 
 
 
-
-
-
-
-
+ 					      ~~
+					     ~~
+					    ~~
+					   | |
+					   | |
 		                 XXXXXXXXXXXXXXX
 		 	        X		X
 			       X		 X
@@ -15,14 +15,14 @@
 			    X 			    X
 		 	   X			     X
 			  X 			      X
-			 X			       X
-			X				X
-	|||||||||	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	||	|	X				X
-	||	O	X				X
-	||     {|}	X				X
-	||     |||	X				X
-	||		X				X
-	||		X				X
-	||		X				X
+			 X			       X	 __________
+			X/////			   \\\\\X	|	   |
+	|||||||||	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	| 	   |
+	||	|	X				X	|__________|
+	||	O	X				X	|
+	||     {|}	X		 ______		X	|
+	||     |||	X	_____	|___|___|	X	|
+	||		X	|   |	|___|___|	X	|
+	||		X	|   |			X	|
+	||		X	|   |			X       |
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
